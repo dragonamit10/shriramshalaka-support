@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://dragonamit10.github.io/sitemap.xml
+Sitemap: https://dragonamit10.github.io/shriramshalaka-support/sitemap.xml
