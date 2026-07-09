@@ -1,0 +1,16 @@
+{
+    "name":"Shri RamShalaka Prashnawali",
+    "short_name":"RamShalaka",
+    "start_url":"/",
+    "display":"standalone",
+    "background_color":"#ffffff",
+    "theme_color":"#8B0000",
+    "orientation":"portrait",
+    "icons":[
+        {
+            "src":"RamShalakaIcon.png",
+            "sizes":"512x512",
+            "type":"image/png"
+        }
+    ]
+}
